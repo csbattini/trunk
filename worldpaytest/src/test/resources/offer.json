@@ -1,0 +1,12 @@
+{
+  "name": "my product",
+  "description": "my product description",
+  "isService": false,
+  "conditions": [
+    "condition 1",
+    "condition 2",
+    "condition 3"
+  ],
+  "price": 99.99,
+  "currency": "GBP"
+}
