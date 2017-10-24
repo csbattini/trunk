@@ -7,7 +7,7 @@ A simple RESTful software service that will allow a merchant to create a new sim
 In order to run assignment, you have to install it in local Maven repository 
 
 # Step1
-    $ git checkout worldpaytest_assignment_branch
+    $ git checkout <worldpaytest_assignment_branch>
     $ mvn compile install
 # Step2
        Import the Assignment into IntelliJ IDEA IDE 
