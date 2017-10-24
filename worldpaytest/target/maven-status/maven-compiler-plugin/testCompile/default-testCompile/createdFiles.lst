@@ -1,5 +1,0 @@
-com\worldpay\test\AppServiceTest.class
-com\worldpay\test\dao\merchant\MerchantDAOImplTest.class
-com\worldpay\test\service\MerchantServiceTest.class
-com\worldpay\test\model\OfferTest.class
-com\worldpay\test\resource\MerchantResourceTest.class
