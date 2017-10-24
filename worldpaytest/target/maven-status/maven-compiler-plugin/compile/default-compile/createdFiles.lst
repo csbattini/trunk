@@ -1,0 +1,10 @@
+com\worldpay\test\model\Offer.class
+com\worldpay\test\service\MerchantServiceException.class
+com\worldpay\test\service\MerchantService.class
+com\worldpay\test\resource\MerchantResource.class
+com\worldpay\test\util\DBUtil.class
+com\worldpay\test\dao\merchant\MerchantDAOImpl$1.class
+com\worldpay\test\dao\merchant\MerchantDAO.class
+com\worldpay\test\dao\merchant\MerchantDAOException.class
+com\worldpay\test\dao\merchant\MerchantDAOImpl.class
+com\worldpay\test\App.class
